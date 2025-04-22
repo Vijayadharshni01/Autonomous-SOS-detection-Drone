@@ -1,0 +1,9 @@
+Flask
+Pillow
+numpy
+opencv-python
+ultralytics
+google-generativeai
+python-dotenv
+twilio
+requests
